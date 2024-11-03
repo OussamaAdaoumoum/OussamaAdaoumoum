@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama</h1>
 <h3 align="center">I'm a developer that loves simplifying things. I love breaking down complex problems into simple, easy to understand solutions. I Currently live in Morocco as a software developer</h3>
-<img align="right" width="400" alt="Coding" src="https://tenor.com/view/zoro-one-piece-gif-26187163?utm_source=share-button&utm_medium=Social&utm_content=pinterest" />
+<img align="right" width="400" alt="Coding" src="[https://tenor.com/view/zoro-one-piece-gif-26187163?utm_source=share-button&utm_medium=Social&utm_content=pinterest](https://github-production-user-asset-6210df.s3.amazonaws.com/94638773/382600524-949f4cc2-0e0d-47a4-a4ea-a5ec145b5e94.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241103T194707Z&X-Amz-Expires=300&X-Amz-Signature=2851a291d2401b351692365b05a5acc4eb47a48a1425596997a8a3707bf92d0d&X-Amz-SignedHeaders=host)" />
 
 
 - 🌱 I’m currently learning **Spring Boot**
